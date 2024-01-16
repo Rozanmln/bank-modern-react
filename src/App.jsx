@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import styles from './style'
 import { Navbar, Billing, CardDeal, Business, Clients, Stats, CTA, Footer, Testimonials, Hero, } from './components';
