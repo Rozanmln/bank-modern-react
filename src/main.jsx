@@ -10,11 +10,11 @@ import { TestAPI } from './components';
 
 const router = createBrowserRouter([
   {
-    path: "/test",
+    path: "/",
     element: <App />,
   },
   {
-    path: "/",
+    path: "/test",
     element: <TestAPI />,
   },
 ]);
